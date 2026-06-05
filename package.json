@@ -1,0 +1,36 @@
+{
+  "name": "orchex-js-sdk",
+  "version": "0.0.1",
+  "description": "Official JavaScript SDK for OrcheX",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src",
+    "README.md",
+    "package.json"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "homepage": "https://orchex.ai",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainobi/orchex-js-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ainobi/orchex-js-sdk/issues"
+  },
+  "author": "OrcheX <ops@ainobi.co.jp>",
+  "keywords": [
+    "orchex",
+    "ai",
+    "agents",
+    "workflow",
+    "governance",
+    "sdk"
+  ]
+}
