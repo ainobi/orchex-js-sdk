@@ -9,7 +9,7 @@ Website: https://orchex.ai
 ## Install
 
 ```bash
-npm install orchex-js-sdk
+npm install orchex
 ```
 
 ## Status

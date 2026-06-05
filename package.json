@@ -1,6 +1,6 @@
 {
-  "name": "orchex-js-sdk",
-  "version": "0.0.1",
+  "name": "orchex",
+  "version": "0.0.2",
   "description": "Official JavaScript SDK for OrcheX",
   "type": "module",
   "main": "src/index.js",
